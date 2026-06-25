@@ -4,7 +4,7 @@ Họ tên: Trần Quang Huy
 
 MSSV: 2A202601010
 
-Repo GitHub: `<điền URL repo GitHub của bạn>`
+Repo GitHub: `https://github.com/huyelio/Day21-2A202601010-TranQuangHuy`
 
 Cloud provider: AWS
 
